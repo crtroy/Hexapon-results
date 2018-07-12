@@ -8,6 +8,7 @@ from the input position to find if the current player will win or lose if the cu
 player is playing a perfect game.
 
 To run:
+
 \>java Hexapawn < textfile.txt
 
 To use, place a single line of data in a text file in this format:
