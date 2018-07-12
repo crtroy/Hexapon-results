@@ -7,8 +7,7 @@ currently moving will win or a -1 if they will lose. This calculates all possibl
 from the input position to find if the current player will win or lose if the current
 player is playing a perfect game.
 
-To run:
-
+To run:<br>
 \>java Hexapawn < textfile.txt
 
 To use, place a single line of data in a text file in this format:
@@ -19,9 +18,9 @@ uppercase P is for white pawns.
 a period is for an empty space.
 The contents of the textfile only requires a single line, like the example below.
 Bppp.P.P.P
-This sample represents that it's the Black players turns with the board configuration below
-  ppp
-  .P.
-  P.P
+This sample represents that it's the Black players turns with the board configuration below<br>
+  ppp<br>
+  . P .<br>
+  P . P<br>
 
 The resulting output will be 1 signifying that the Black player wins.
