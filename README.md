@@ -12,10 +12,10 @@ To run:<br>
 
 To use, place a single line of data in a text file in this format:<br>
 &nbsp;&nbsp;&nbsp;(player on move)(board layout)<br>
-player on move with either be B for black or W for white<br>
-lower case p is for black pawns.<br>
-uppercase P is for white pawns.<br>
-a period is for an empty space.<br>
+Player on move with either be B for black or W for white<br>
+Lower case p is for black pawns.<br>
+Uppercase P is for white pawns.<br>
+A period is for an empty space.<br>
 The contents of the textfile only requires a single line, like the example below.<br>
 &nbsp;&nbsp;Bppp.P.P.P<br>
 This sample represents that it's the Black players turns with the board configuration below<br>
